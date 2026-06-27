@@ -89,8 +89,8 @@ niraj_sharma = {
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=06b6d4)](https://linkedin.com/in/your-link)
-[![Gmail](https://img.shields.io/badge/Gmail-0a0a0f?style=for-the-badge&logo=gmail&logoColor=f472b6)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=06b6d4)](https://www.linkedin.com/in/niraj-sharma-b7b877388/)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0a0f?style=for-the-badge&logo=gmail&logoColor=f472b6)](mailto:neeraz1419@email.com)
 
 ---
 
